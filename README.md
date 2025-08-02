@@ -4,9 +4,9 @@
 
 This project is a hands-on demo of how to build a **real-time, event-driven pipeline** using AWS — and more specifically, how to track changes using **Change Data Capture (CDC)** from DynamoDB in near real time.
 
-We’re simulating something like a live sales or transactions system, where updates (new orders, modified entries, deleted items) need to be immediately captured, processed, and made available for analysis — _without waiting for a batch job to run overnight_.
+We’re simulating something like a live sales or transactions system, where updates (new orders, modified entries, deleted items) need to be immediately captured, processed, and made available for analysis, _without waiting for a batch job to run overnight_.
 
-This walkthrough is built around a **fully serverless** architecture — meaning no EC2s, no clusters to manage — just clean, modular AWS-native services working together.
+This walkthrough is built around a **fully serverless** architecture - meaning no EC2s, no clusters to manage - just clean, modular AWS-native services working together.
 
 ---
 
