@@ -1,5 +1,8 @@
 # Project: Real-Time Data Streaming & CDC Pipeline with AWS
 
+## 📺 Demo Video
+
+[Watch the project demo](https://www.youtube.com/watch?v=sW-YuJ52iec)
 ## Overview
 
 This project is a hands-on demo of how to build a **real-time, event-driven pipeline** using AWS — and more specifically, how to track changes using **Change Data Capture (CDC)** from DynamoDB in near real time.
