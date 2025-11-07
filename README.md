@@ -1,4 +1,4 @@
-# Project: Real-Time Data Streaming & CDC Pipeline with AWS
+# Project: Real-Time Data Streaming & CDC Pipeline with AWS.
 
 ## Overview
 
